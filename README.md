@@ -7,6 +7,8 @@ vehicle-tracking-system/
 ├── requirements.txt     # Python dependencies
 └── screenshots/         # Demo images and results
 # Requirements
-Python 3.7+
-OpenCV 4.5+
-NumPy 1.19+
+-Python 3.7+
+-OpenCV 4.5+
+-NumPy 1.19+
+pip install opencv-python>=4.5.0
+pip install numpy>=1.19.0
